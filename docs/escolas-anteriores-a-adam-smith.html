@@ -128,6 +128,28 @@ code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -170,7 +192,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <ul>
 <li class="chapter" data-level="2.1" data-path="escolas-anteriores-a-adam-smith.html"><a href="escolas-anteriores-a-adam-smith.html#hunt-lautzenheise"><i class="fa fa-check"></i><b>2.1</b> Hunt &amp; Lautzenheise</a></li>
 <li class="chapter" data-level="2.2" data-path="escolas-anteriores-a-adam-smith.html"><a href="escolas-anteriores-a-adam-smith.html#brue-1"><i class="fa fa-check"></i><b>2.2</b> Brue</a></li>
-<li class="chapter" data-level="2.3" data-path="escolas-anteriores-a-adam-smith.html"><a href="escolas-anteriores-a-adam-smith.html#captioned-figures-and-tables"><i class="fa fa-check"></i><b>2.3</b> Captioned figures and tables</a></li>
+<li class="chapter" data-level="2.3" data-path="escolas-anteriores-a-adam-smith.html"><a href="escolas-anteriores-a-adam-smith.html#cross"><i class="fa fa-check"></i><b>2.3</b> Captioned figures and tables</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
@@ -218,14 +240,14 @@ pensamentos próprios
 <li>Leave the label off if you like the automated heading generated based on your heading title: for example, <code># Hello world</code> = <code># Hello world {#hello-world}</code>.</li>
 <li>To label an un-numbered heading, use: <code># Hello world {-#nice-label}</code> or <code>{# Hello world .unnumbered}</code>.</li>
 </ul></li>
-<li>Next, reference the labeled heading anywhere in the text using <code>\@ref(nice-label)</code>; for example, please see Chapter <a href="#cross"><strong>??</strong></a>.
+<li>Next, reference the labeled heading anywhere in the text using <code>\@ref(nice-label)</code>.
 <ul>
-<li>If you prefer text as the link instead of a numbered reference use: <a href="#cross">any text you want can go here</a>.</li>
+<li>If you prefer text as the link instead of a numbered reference use: <a href="escolas-anteriores-a-adam-smith.html#cross">any text you want can go here</a>.</li>
 </ul></li>
 </ol>
 </div>
-<div id="captioned-figures-and-tables" class="section level2 hasAnchor" number="2.3">
-<h2><span class="header-section-number">2.3</span> Captioned figures and tables<a href="escolas-anteriores-a-adam-smith.html#captioned-figures-and-tables" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="cross" class="section level2 hasAnchor" number="2.3">
+<h2><span class="header-section-number">2.3</span> Captioned figures and tables<a href="escolas-anteriores-a-adam-smith.html#cross" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Figures and tables <em>with captions</em> can also be cross-referenced from elsewhere in your book using <code>\@ref(fig:chunk-label)</code> and <code>\@ref(tab:chunk-label)</code>, respectively.</p>
 <p>See Figure <a href="escolas-anteriores-a-adam-smith.html#fig:nice-fig">2.1</a>.</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="escolas-anteriores-a-adam-smith.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">par</span>(<span class="at">mar =</span> <span class="fu">c</span>(<span class="dv">4</span>, <span class="dv">4</span>, .<span class="dv">1</span>, .<span class="dv">1</span>))</span>
