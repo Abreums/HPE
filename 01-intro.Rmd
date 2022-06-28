@@ -1,10 +1,10 @@
 # Introdução
 
-## Brue
+## Hunt & Lautzenheiser
 
 ### Uma definição de capitalismo
 
-Hunt e Lautzenheiser consideram em sua abordagem metodológica que o _modo de produção_ define o sistema econômico. Por sua vez, o modo de produção é definido por 2 componentes: _as forças produtivas_ e as _relações sociais de produção_. 
+Hunt e Lautzenheiser [@hunt2011] consideram em sua abordagem metodológica que o _modo de produção_ define o sistema econômico. Por sua vez, o modo de produção é definido por 2 componentes: _as forças produtivas_ e as _relações sociais de produção_. 
 
 As _forças produtivas_ também são chamadas de tecnologia produtiva da sociedade. O que inclui: conhecimento técnológico (incluindo conhecimento organizacional), ferramentas, máquinas e prédios usados na produção. Um modo de produção deve prover as formas de sustentação dos custos de manutenção do sistema, incluindo a extração de materia prima, a substituição de equipamentos desgastados, e a sustentação dos seres-humanos envolvidos com o processo produtivo. Nos casos onde um modo de produção não satisfaça estas necessidades, eles desaparecem.
 
@@ -27,11 +27,29 @@ Vamos analisar cada uma das 4 características do capitalismo:
 
 Para existir _valor de troca_ é preciso que o modo de produção seja caracterizado pela _produção de mercadorias_, que se caracteriza pela existência de um mercado desenvolvido onde os produtos possam ser livremente comprados e vendidos em troca de moeda, e que a produção seja voltada para o _valor de troca_ e não para uso ou consumo pessoal imediato. Nesta situação a atividade produtiva de uma pessoa não possui nenhuma relação direta com seu consumo. A atividade produtiva é direcionada ao mercado e à troca. Assim como não há relação das pessoas com as outras pessoas que produzem as mercadorias que consomem. Esta relação é também mediada pelo mercado.
 
+<span style="color: purple;">
+A forma como os autores apresentam esta questão tem uma conotação negativa, como se a existência do mercado ou a produção de mercadorias fosse algo negativo.        
+Dentro de uma perspectiva contemporâne me parece um absurdo qualquer situação diferente desta. Não faz sentido eu ser proprietário de uma criação de ovelhas e de uma tecelagem para poder ter uma blusa de lã.        
+Neste sentido o mercado é uma entidade libertadora. 
+Também a afirmação da falta de relação entre as pessoas que produzem e as pessoas que consomem, parece cercada de um tom negativo. Mas isto é de fato algo muito bom.      
+A despersonificação que o mercado traz para o processo de troca ajuda a eliminar favorecimentos e preconceitos. De outra forma, sem esta despersonificação alguém poderia ser privado de uma mercadoria simplesmente pelo fato do produtor não concordar com as posições religiosas, políticas da pessoa compradora, ou até mesmo por simples desavença.
+</span>
+
+
 **2. propriedade privada dos meios de produção**
 
 A organização da sociedade dá a certas pessoas o direito de decidir como matérias primas, ferramentas, prédios e outros instrumentos destinados à produção devam ser utilizados. O que implica automaticamente no fato de que outro grupo de pessoas será excluído deste processo decisório.
 
 O proprietário não precisa possuir qualquer papel direto no processo produtivo para precisar controlá-lo. A 
+
+<span style="color: purple;">
+Mais uma vez os autores apresentam o conceito cercado de uma visão negativa.     
+A propriedade privada como uma força repressora do possuidor sobre os que não são possuidores.     
+A propriedade privada implica em capacidade de tomar decisões sobre seu uso que gerem benefícios pessoais. No caso de más decisões sobre o uso da propriedade privada, há o risco de perda da mesma por ineficiência de sua gestão. 
+Isto significa que a propriedade privada é acompanhada de uma responsabilidade pelo seu uso.    
+O importante aqui é garantir uma _relação social_ que evite a manutenção da propriedade privada por força que não seja da geração de benefício para o conjunto do mercado. Claro que isto implica em toda uma discussão do que seja benefício para o conjunto. Mas de outro lado, a discussão é muito mais simples se percebemos que na história há bons indícios de que "o mercado" é muito cruel com a má gestão da propriedade privada.
+</span>
+
 
 **3. um grande segmento da população que não pode existir a não ser que venda sua força de trabalho no mercado**
 
@@ -68,6 +86,33 @@ As cruzadas tiveram papel importante neste processo sendo força para uma expans
 
 De outro lado o aumento do comércio resultou no surgimento de centros urbanos de com vocação comercial, que também resultou em produções voltadas exclusivamente para o comércio.
 
+### O sistema doméstico de trabalho e o surgimento da indústria capitalista
+
+O processo de susbstituição indo do artesão na sua oficina, passando pelo capitalista fornecendo a materia prima e contratando o artesão e terminando com o capitalista dono dos insumos, das ferramentas e do prédio onde os artesão trabalhavam a troco de um salário se consolidou até o final do século XVI.     
+@hunt2011 discute se surgimento do capitalismo pode ser caracterizado pela existência deste processo, ou se ele já existia antes com as relações comerciais. Os autores apontam que o comércio já existia na Europa feudal. 
+
+<span style="color:purple">
+A impressão é de que existe uma relação entre o crescimento do processo comercial e o modo de produção capitalista, onde o primeiro permite o acúmulo de capital para a existência do segundo. Mas os autores não deixam isso claro.
+</span>
+
+### O declínio do sistema senhorial
+
+O declínio do sistema senhorial foi necessário para permitir que as relações de trabalho capitalistas pudessem se sobrepor aos arranjos feudais baseados na relação senhorial entre nobres e servos.
+Este processo ocorre durante um longo período passando pelos séculos XIII indo até o século XIV quando o sistema senhorial já estava quase eliminado.
+
+### O surgimento da classe trabalhadora
+
+Nos séculos XV e XVI o movimento do cercamento atingiu seu ápice. Este era caracterizado pela eliminação das áreas de uso comum nos feudos, que passaram a ser utilizadas exclusivamente para a produção de ovelhas e lãs. Este processo resultou na diminuição dos laços feudais e no surgimento de uma força de trabalho sem terra, nem meios de produção. 
+
+### Outras forças na transição para o capitalismo
+
+Dentre as principais forças de transição para o capitalismo no século XVI se destacam:
+- o crescimento no volume do comércio;
+- o sistema industrial de produção doméstica;
+- o movimento dos cercamentos;
+- a grande inflação de preços.
+
+
 ## Brue
 
 ### Introdução e Visão Geral
@@ -89,11 +134,11 @@ Antes de 1500:
 - Ausência de dinheiro e crédito
 - Ausência de estados nacionais soberanos
 
-## Linha do tempo das idéias econômicas
+### Linha do tempo das idéias econômicas
 
 Destacar as relações de influência e aceitação de idéias entre as escolas.
 
-## As cinco perguntas principais
+### As cinco perguntas principais
 
 **1. Qual era o cenário histórico da escola?**
 

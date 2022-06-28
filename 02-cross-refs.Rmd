@@ -1,8 +1,24 @@
-# Cross-references {#cross}
+# Escolas anteriores a Adam Smith
+
+## Hunt & Lautzenheise
+
+teste
+<span style = "color:purple">
+pensamentos próprios
+</span>
+
+## Brue
+
+teste
+<span style="color:purple">
+pensamentos próprios
+</span>
+
+Cross-references {#cross}
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 
-## Chapters and sub-chapters
+Chapters and sub-chapters
 
 There are two steps to cross-reference any heading:
 
